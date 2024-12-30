@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.223e7629.css",
+    "main.js": "/static/js/main.bc3bb248.js",
+    "static/media/aswin.jpg": "/static/media/aswin.293523ef603b380c387e.jpg",
+    "static/media/Aswin-B-React-Js-Developer.pdf": "/static/media/Aswin-B-React-Js-Developer.679a8dad52b252038734.pdf",
+    "static/media/jquery-4.svg": "/static/media/jquery-4.fcc480227fd31fecc887db807010bf1d.svg",
+    "static/media/react.svg": "/static/media/react.d13c1723a3767f938b21e3b6140cb7ae.svg",
+    "static/media/css-alt.svg": "/static/media/css-alt.eae50c23bb3ecb96ed16f006b86c8456.svg",
+    "static/media/javascript.svg": "/static/media/javascript.a54c85501058379cbe065a7910724d80.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.0f472146598046445e11138dac43c7c1.svg",
+    "index.html": "/index.html",
+    "static/media/tailwind-css.svg": "/static/media/tailwind-css.12cf1c11ca76d1858c51b890d4c760a3.svg",
+    "static/media/html-5.svg": "/static/media/html-5.5469179cbebd3faf12bc6822260a03f7.svg",
+    "main.223e7629.css.map": "/static/css/main.223e7629.css.map",
+    "main.bc3bb248.js.map": "/static/js/main.bc3bb248.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.223e7629.css",
+    "static/js/main.bc3bb248.js"
+  ]
+}
